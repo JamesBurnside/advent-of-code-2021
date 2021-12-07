@@ -1,2 +1,3 @@
-# advent-of-code-2021
-🎄☃️ An advent calendar of small programming puzzles
+# 🎄❄️☃️🎅 Advent of Code - 2021 🎄❄️☃️🎅
+
+Advent of Code is a series of small programming puzzles.
