@@ -2,7 +2,8 @@
     "name": "advent-of-code-2021",
     "version": "1.0.0",
     "scripts": {
-        "day1": "tsc && node day01/sonar-sweep.js"
+        "day1": "tsc && node day01/sonar-sweep.js",
+        "day2": "tsc && node day02/dive.js"
     },
     "devDependencies": {
         "@types/node": "^16.11.12",
