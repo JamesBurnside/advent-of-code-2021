@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "scripts": {
         "day1": "tsc && node day01/sonar-sweep.js",
-        "day2": "tsc && node day02/dive.js"
+        "day2": "tsc && node day02/dive.js",
+        "day3": "tsc && node day03/diagnostics.js"
     },
     "devDependencies": {
         "@types/node": "^16.11.12",
